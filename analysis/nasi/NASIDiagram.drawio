@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
+  <diagram name="Page-1" id="84JMAnK9nNfm1LWXXzeR">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2100" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mE-OXItwpJ_cAcoDJKAy-10" target="mE-OXItwpJ_cAcoDJKAy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mE-OXItwpJ_cAcoDJKAy-10" target="mE-OXItwpJ_cAcoDJKAy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-10" value="Input &lt;b&gt;Premise&lt;/b&gt;&amp;nbsp;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;(Employee Message)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="281" y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mE-OXItwpJ_cAcoDJKAy-11" target="mE-OXItwpJ_cAcoDJKAy-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-11" value="Commonsense &lt;b&gt;Hypothesis&lt;/b&gt; Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mE-OXItwpJ_cAcoDJKAy-14" target="mE-OXItwpJ_cAcoDJKAy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mE-OXItwpJ_cAcoDJKAy-14" target="mE-OXItwpJ_cAcoDJKAy-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-14" value="&lt;b&gt;Reasoning&lt;/b&gt; Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="291" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-17" value="Category" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="235" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mE-OXItwpJ_cAcoDJKAy-18" target="mE-OXItwpJ_cAcoDJKAy-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-18" value="Commonsense&amp;nbsp;&lt;div&gt;Hypothesis&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="650" y="235" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mE-OXItwpJ_cAcoDJKAy-21" target="mE-OXItwpJ_cAcoDJKAy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-21" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Categories&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;C1: No reason&lt;/span&gt;&lt;/li&gt;&lt;li&gt;C2: Jobs and careers&lt;/li&gt;&lt;li&gt;C3: Medication&lt;/li&gt;&lt;li&gt;C4: Relationship&lt;/li&gt;&lt;li&gt;C5: Alienation&lt;/li&gt;&lt;li&gt;C6: Bias or abuse&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="195" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mE-OXItwpJ_cAcoDJKAy-23" target="mE-OXItwpJ_cAcoDJKAy-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-23" value="Reason" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="235" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mE-OXItwpJ_cAcoDJKAy-30" target="mE-OXItwpJ_cAcoDJKAy-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mE-OXItwpJ_cAcoDJKAy-30" target="mE-OXItwpJ_cAcoDJKAy-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-30" value="Compare the reasoning to the hypothesis" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="205" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-36" value="Contradiction or Neutral" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="433" y="136" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-38" value="Final Reasoning" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="507" y="370" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mE-OXItwpJ_cAcoDJKAy-40" value="Entailment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="563" y="327" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
