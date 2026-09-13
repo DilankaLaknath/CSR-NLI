@@ -1,0 +1,6 @@
+Model,Wilcoxon Statistic,P-Value
+gpt-3.5-turbo,802123.5,0.0
+gpt-4-turbo,130753.0,0.0
+allam-2-7b,1039255.0,0.0
+llama-3.3-70b-versatile,,
+deepseek-r1-distill-llama-70b,598803.0,0.0

@@ -1,0 +1,6 @@
+Model,Test Used,Statistic,P-Value
+gpt-3.5-turbo,Wilcoxon Signed-Rank,802123.5,0.0
+gpt-4-turbo,Wilcoxon Signed-Rank,130753.0,0.0
+allam-2-7b,Wilcoxon Signed-Rank,1039255.0,0.0
+llama-3.3-70b-versatile,t-Test,-164.73128298165318,0.0
+deepseek-r1-distill-llama-70b,Wilcoxon Signed-Rank,598803.0,0.0

@@ -1,0 +1,6 @@
+Model,T-Statistic,P-Value
+gpt-3.5-turbo,-53.24832757252055,0.0
+gpt-4-turbo,-124.06229056832251,0.0
+allam-2-7b,-46.948613427230725,0.0
+llama-3.3-70b-versatile,,
+deepseek-r1-distill-llama-70b,-69.80887871083921,0.0
